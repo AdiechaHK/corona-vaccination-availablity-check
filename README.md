@@ -3,10 +3,10 @@ Just a simple script to continuesly check availability for vaccination
 
 
 ### Variables to set
-`YOUR_DISTRICT_ID` - district id you can get it from meta apis
-`FROM_TODAY_DAYS_TO_CHECK` - how many days you wish to check from today, if you want to check for upcomming week (7 days) this value should be 7, if you want to check for today only then it will be 1.
-`MESSAGE_AS_YOU_WANT` - you can write your formated message here. already given an example, you can use any of the key from sample payload in the message format.
-`DISCORD_WEBHOOK_URL` - this is to get notification in discord.
+`YOUR_DISTRICT_ID` - district id you can get it from meta apis   
+`FROM_TODAY_DAYS_TO_CHECK` - how many days you wish to check from today, if you want to check for upcomming week (7 days) this value should be 7, if you want to check for today only then it will be 1.   
+`MESSAGE_AS_YOU_WANT` - you can write your formated message here. already given an example, you can use any of the key from sample payload in the message format.   
+`DISCORD_WEBHOOK_URL` - this is to get notification in discord.   
 
 
 **You can also update condition as you wish, you can use the same sample payload properties there as well.
